@@ -1,0 +1,20 @@
+/* Add CSS Styling */
+.lightPink {
+    background-color: rgb(228, 141, 141);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ID_1 {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.FontDif {
+    font-size: 24px;
+}
+
+#ID_2 {
+    background-color: rgb(122, 230, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
